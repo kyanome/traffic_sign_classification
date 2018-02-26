@@ -158,11 +158,11 @@ The code for making predictions on my final model is located in the 15th cell of
 
 [//]: # (Image References)
 
-[image1]: ./writeup_picture/histogram.png "Histogram"
-[image2]:./writeup_picture/img2gray.png "Grayscaling"
-[image3]: ./writeup_picture/normalization.png "Normalization"
-[image4]: ./writeup_picture/17_no_entry.jpg "Traffic Sign 1"
-[image5]: ./writeup_picture/2_50km.jpg "Traffic Sign 2"
-[image6]: ./writeup_picture/3_60km.jpg "Traffic Sign 3"
-[image7]: ./writeup_picture/9_no_passing.jpg "Traffic Sign 4"
-[image8]: ./writeup_picture/13_yield.jpg "Traffic Sign 5"
+[image1]: ./images/histogram.png "Histogram"
+[image2]:./images/img2gray.png "Grayscaling"
+[image3]: ./images/normalization.png "Normalization"
+[image4]: ./images/17_no_entry.jpg "Traffic Sign 1"
+[image5]: ./images/2_50km.jpg "Traffic Sign 2"
+[image6]: ./images/3_60km.jpg "Traffic Sign 3"
+[image7]: ./images/9_no_passing.jpg "Traffic Sign 4"
+[image8]: ./images/13_yield.jpg "Traffic Sign 5"
